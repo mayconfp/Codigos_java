@@ -1,9 +1,6 @@
 package  fundamentos;
 import javax.swing.JOptionPane;
 
-public class teste {
-
-    
 public class SistemaNotasAlunos {
     public static void main(String[] args) {
 
