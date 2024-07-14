@@ -14,11 +14,11 @@ public class SistemaNotasAlunos {
         double numero3 = Double.parseDouble(nota3);
         double numero4 = Double.parseDouble(nota4);
 
-        // calculo média de todas as notas
+        // calculo média de todas as notas.
 
         double mediaQuatroUnidades = (numero1 + numero2 + numero3 + numero4) /4;
 
-        // verificação se esta aprovado nas 4 notas
+        // verificação se esta aprovado nas 4 notas.
 
             if (mediaQuatroUnidades >= 7) {
                 System.out.println("Aluno Aprovado em todas unidades com média: " + mediaQuatroUnidades);
